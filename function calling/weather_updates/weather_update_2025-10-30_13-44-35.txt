@@ -1,0 +1,16 @@
+👤 Name: Gurleen Kaur
+
+🌦️ Weather Report:
+City: Ludhiana
+Region: Punjab
+Country: India
+Temperature (°C): 30.1
+Condition: Overcast
+Humidity (%): 28
+Wind (kph): 4.3
+
+💡 Daily Quote:
+Push through the day with a smile!
+
+🍎 Health Tip:
+Take a walk after meals to aid digestion.

@@ -1,0 +1,594 @@
+📈 CRIC SCORES
+
+📌 Match: Australia [AUS] vs West Indies [WI]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Ireland Women [IRW] vs Zimbabwe Women [ZIMW]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: England Champions [ENGC] vs India Champions [INDC]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Estonia [EST] vs Finland [FIN]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Australia Champions [AUSC] vs South Africa Champions [SAC]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Uganda [UGA] vs United Arab Emirates [UAE]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Kenya [KEN] vs Nigeria [NGA]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Australia [AUS] vs West Indies [WI]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Pakistan Champions [PAKC] vs West Indies Champions [WIC]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Austria [AUT] vs Luxembourg [LUX]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Malawi [MWI] vs Rwanda [RWN]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Australia Champions [AUSC] vs India Champions [INDC]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Ireland Women [IRW] vs Zimbabwe Women [ZIMW]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Austria [AUT] vs Hungary [HUN]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Nigeria [NGA] vs United Arab Emirates [UAE]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Luxembourg [LUX] vs Romania [ROM]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Australia [AUS] vs West Indies [WI]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Pakistan Champions [PAKC] vs South Africa Champions [SAC]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Hungary [HUN] vs Luxembourg [LUX]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Estonia [EST] vs Finland [FIN]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Bahrain [BHR] vs Malawi [MWI]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Hungary [HUN] vs Romania [ROM]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Bahrain [BHR] vs Rwanda [RWN]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Kenya [KEN] vs Uganda [UGA]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Austria [AUT] vs Romania [ROM]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: England Champions [ENGC] vs South Africa Champions [SAC]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Bangladesh [BAN] vs Pakistan [PAK]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: New Zealand [NZ] vs Zimbabwe [ZIM]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Hong Kong [HKG] vs Singapore [SGP]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Malaysia [MAL] vs Samoa [SAMOA]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Australia Champions [AUSC] vs West Indies Champions [WIC]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Qatar [QAT] vs Saudi Arabia [SAU]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Ireland Women [IRW] vs Zimbabwe Women [ZIMW]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Cameroon Women [CW] vs Rwanda Women [RW]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Botswana Women [BOW] vs Sierra Leone Women [SLW]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Bahrain [BHR] vs Malawi [MWI]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: England [ENG] vs India [IND]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Lesotho Women [LW] vs Malawi Women [MW]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Eswatini Women [EW] vs Mozambique Women [MW]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Malawi [MWI] vs Rwanda [RWN]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Kenya [KEN] vs United Arab Emirates [UAE]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Malaysia [MAL] vs Singapore [SGP]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Hong Kong [HKG] vs Samoa [SAMOA]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Australia [AUS] vs West Indies [WI]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: India Champions [INDC] vs South Africa Champions [SAC]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Qatar [QAT] vs Saudi Arabia [SAU]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Ireland Women [IRW] vs Zimbabwe Women [ZIMW]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Karaikal Kniights vs Villianur Mohit Kings
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Bangladesh [BAN] vs Pakistan [PAK]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: England Women [ENGW] vs India Women [INDW]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Bahrain [BHR] vs Rwanda [RWN]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: England Champions [ENGC] vs West Indies Champions [WIC]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Nigeria [NGA] vs Uganda [UGA]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: New Zealand [NZ] vs South Africa [RSA]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Middlesex [MDX] vs Northamptonshire [NOR]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Glamorgan [GLAM] vs Kent [KENT]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Gloucestershire [GLOU] vs Lancashire [LNCS]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Derbyshire [DERB] vs Leicestershire [LECS]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Surrey [SUR] vs Yorkshire [YRK]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Durham [DURH] vs Somerset [SOM]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Hampshire [HAM] vs Nottinghamshire [NOT]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Warwickshire [WRKS] vs Worcestershire [WRCS]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Essex [ESX] vs Sussex [SUSS]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Mahe Megalo Strikers vs Ossudu Accord Warriors
+⚡ Score: None
+📝 Status: Ossudu Accord Warriors opt to bowl
+----------------------------------------
+📌 Match: Malawi [MWI] vs Rwanda [RWN]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Samoa [SAMOA] vs Singapore [SGP]
+⚡ Score: None
+📝 Status: Match not started
+----------------------------------------
+📌 Match: Hong Kong [HKG] vs Malaysia [MAL]
+⚡ Score: None
+📝 Status: Malaysia won by 7 wkts
+----------------------------------------
+📌 Match: Qatar [QAT] vs Saudi Arabia [SAU]
+⚡ Score: None
+📝 Status: Qatar won by 4 wkts
+----------------------------------------
+📌 Match: Genid Yanam Royals vs Ruby White Town Legends
+⚡ Score: None
+📝 Status: No result - due to rain
+----------------------------------------
+📌 Match: Eswatini Women [EW] vs Sierra Leone Women [SLW]
+⚡ Score: None
+📝 Status: Sierra Leone Women won by 149 runs
+----------------------------------------
+📌 Match: Cameroon Women [CW] vs Lesotho Women [LW]
+⚡ Score: None
+📝 Status: Cameroon Women won by 55 runs
+----------------------------------------
+📌 Match: Kenya [KEN] vs Uganda [UGA]
+⚡ Score: None
+📝 Status: Uganda won by 28 runs
+----------------------------------------
+📌 Match: Karaikal Kniights vs Ossudu Accord Warriors
+⚡ Score: None
+📝 Status: Ossudu Accord Warriors won by 5 wkts
+----------------------------------------
+📌 Match: Malawi Women [MW] vs Rwanda Women [RW]
+⚡ Score: None
+📝 Status: Rwanda Women won by 67 runs
+----------------------------------------
+📌 Match: Botswana Women [BOW] vs Mozambique Women [MW]
+⚡ Score: None
+📝 Status: Botswana Women won by 8 wkts
+----------------------------------------
+📌 Match: Nigeria [NGA] vs United Arab Emirates [UAE]
+⚡ Score: None
+📝 Status: United Arab Emirates won by 7 wkts
+----------------------------------------
+📌 Match: Australia [AUS] vs West Indies [WI]
+⚡ Score: None
+📝 Status: Australia won by 3 wkts
+----------------------------------------
+📌 Match: India Champions [INDC] vs Pakistan Champions [PAKC]
+⚡ Score: None
+📝 Status: There is no scorecard available for this match.
+----------------------------------------
+📌 Match: Ireland Women [IRW] vs Zimbabwe Women [ZIMW]
+⚡ Score: None
+📝 Status: Ireland Women won by 6 wkts
+----------------------------------------
+📌 Match: Karaikal Kniights vs Mahe Megalo Strikers
+⚡ Score: None
+📝 Status: Mahe Megalo Strikers won by 15 runs
+----------------------------------------
+📌 Match: Bangladesh [BAN] vs Pakistan [PAK]
+⚡ Score: None
+📝 Status: Bangladesh won by 7 wkts
+----------------------------------------
+📌 Match: Mozambique Women [MW] vs Sierra Leone Women [SLW]
+⚡ Score: None
+📝 Status: Sierra Leone Women won by 77 runs
+----------------------------------------
+📌 Match: Cameroon Women [CW] vs Malawi Women [MW]
+⚡ Score: None
+📝 Status: Malawi Women won by 38 runs
+----------------------------------------
+📌 Match: Bahrain [BHR] vs Rwanda [RWN]
+⚡ Score: None
+📝 Status: Bahrain won by 7 wkts
+----------------------------------------
+📌 Match: Finland Women [FINW] vs Switzerland Women
+⚡ Score: None
+📝 Status: Switzerland Women won by 10 wkts
+----------------------------------------
+📌 Match: South Africa [RSA] vs Zimbabwe [ZIM]
+⚡ Score: None
+📝 Status: South Africa won by 7 wkts
+----------------------------------------
+📌 Match: England U19 [ENG] vs India U19 [IN19]
+⚡ Score: None
+📝 Status: Day 2: Stumps - India U19 trail by 258 runs
+----------------------------------------
+📌 Match: Ruby White Town Legends vs Villianur Mohit Kings
+⚡ Score: None
+📝 Status: Ruby White Town Legends won by 9 wkts
+----------------------------------------
+📌 Match: Botswana Women [BOW] vs Eswatini Women [EW]
+⚡ Score: None
+📝 Status: Botswana Women won by 111 runs
+----------------------------------------
+📌 Match: Lesotho Women [LW] vs Rwanda Women [RW]
+⚡ Score: None
+📝 Status: Rwanda Women won by 10 wkts
+----------------------------------------
+📌 Match: Bahrain [BHR] vs Malawi [MWI]
+⚡ Score: None
+📝 Status: Bahrain won by 9 wkts
+----------------------------------------
+📌 Match: Estonia Women [EW] vs Finland Women [FINW]
+⚡ Score: None
+📝 Status: Estonia Women won by 33 runs
+----------------------------------------
+📌 Match: Malaysia [MAL] vs Samoa [SAMOA]
+⚡ Score: None
+📝 Status: Malaysia won by 6 wkts
+----------------------------------------
+📌 Match: Hong Kong [HKG] vs Singapore [SGP]
+⚡ Score: None
+📝 Status: Hong Kong won by 52 runs
+----------------------------------------
+📌 Match: Australia A [AUSA] vs Sri Lanka A [SLA]
+⚡ Score: None
+📝 Status: Day 3: Stumps - Australia A trail by 106 runs
+----------------------------------------
+📌 Match: Australia Champions [AUSC] vs England Champions [ENGC]
+⚡ Score: None
+📝 Status: No result due to rain
+----------------------------------------
+📌 Match: Qatar [QAT] vs Saudi Arabia [SAU]
+⚡ Score: None
+📝 Status: Saudi Arabia won by 4 wkts
+----------------------------------------
+📌 Match: Estonia Women [EW] vs Switzerland Women
+⚡ Score: None
+📝 Status: Switzerland Women won by 76 runs
+----------------------------------------
+📌 Match: Ossudu Accord Warriors vs Villianur Mohit Kings
+⚡ Score: None
+📝 Status: Villianur Mohit Kings won by 4 runs
+----------------------------------------
+📌 Match: Malawi [MWI] vs Rwanda [RWN]
+⚡ Score: None
+📝 Status: Rwanda won by 6 wkts
+----------------------------------------
+📌 Match: South Africa Champions [SAC] vs West Indies Champions [WIC]
+⚡ Score: None
+📝 Status: Match tied - South Africa Champions won the bowl-out (11 ovs game due to rain, DLS target 81)
+----------------------------------------
+📌 Match: Uganda [UGA] vs United Arab Emirates [UAE]
+⚡ Score: None
+📝 Status: Uganda won by 6 runs
+----------------------------------------
+📌 Match: Finland Women [FINW] vs Switzerland Women
+⚡ Score: None
+📝 Status: Switzerland Women won by 9 wkts
+----------------------------------------
+📌 Match: England Women [ENGW] vs India Women [INDW]
+⚡ Score: None
+📝 Status: England Women won by 8 wkts (DLS Method)
+----------------------------------------
+📌 Match: Genid Yanam Royals vs Mahe Megalo Strikers
+⚡ Score: None
+📝 Status: Mahe Megalo Strikers won by 8 wkts
+----------------------------------------
+📌 Match: Bahrain [BHR] vs Malawi [MWI]
+⚡ Score: None
+📝 Status: Bahrain won by 9 wkts
+----------------------------------------
+📌 Match: Hong Kong [HKG] vs Samoa [SAMOA]
+⚡ Score: None
+📝 Status: Hong Kong won by 54 runs
+----------------------------------------
+📌 Match: Estonia Women [EW] vs Finland Women [FINW]
+⚡ Score: None
+📝 Status: Finland Women won by 7 wkts
+----------------------------------------
+📌 Match: Malaysia [MAL] vs Singapore [SGP]
+⚡ Score: None
+📝 Status: Malaysia won by 6 wkts
+----------------------------------------
+📌 Match: Guyana Amazon Warriors [GAW] vs Rangpur Riders [RGR]
+⚡ Score: None
+📝 Status: Guyana Amazon Warriors won by 32 runs
+----------------------------------------
+📌 Match: Derbyshire [DERB] vs Warwickshire [WRKS]
+⚡ Score: None
+📝 Status: Warwickshire won by 127 runs
+----------------------------------------
+📌 Match: Essex [ESX] vs Kent [KENT]
+⚡ Score: None
+📝 Status: Kent won by 7 wkts
+----------------------------------------
+📌 Match: Leicestershire [LECS] vs Yorkshire [YRK]
+⚡ Score: None
+📝 Status: Yorkshire won by 2 wkts
+----------------------------------------
+📌 Match: Surrey [SUR] vs Sussex [SUSS]
+⚡ Score: None
+📝 Status: Surrey won by 7 runs
+----------------------------------------
+📌 Match: Durham [DURH] vs Northamptonshire [NOR]
+⚡ Score: None
+📝 Status: Durham won by 9 wkts
+----------------------------------------
+📌 Match: Gloucestershire [GLOU] vs Somerset [SOM]
+⚡ Score: None
+📝 Status: Somerset won by 16 runs
+----------------------------------------
+📌 Match: Lancashire [LNCS] vs Nottinghamshire [NOT]
+⚡ Score: None
+📝 Status: Nottinghamshire won by 4 wkts
+----------------------------------------
+📌 Match: Glamorgan [GLAM] vs Middlesex [MDX]
+⚡ Score: None
+📝 Status: Glamorgan won by 52 runs
+----------------------------------------
+📌 Match: Qatar [QAT] vs Saudi Arabia [SAU]
+⚡ Score: None
+📝 Status: Qatar won by 1 run
+----------------------------------------
+📌 Match: England Champions [ENGC] vs Pakistan Champions [PAKC]
+⚡ Score: None
+📝 Status: Pakistan Champions won by 5 runs
+----------------------------------------
+📌 Match: Estonia Women [EW] vs Switzerland Women
+⚡ Score: None
+📝 Status: Switzerland Women won by 5 wkts
+----------------------------------------
+📌 Match: Genid Yanam Royals vs Karaikal Kniights
+⚡ Score: None
+📝 Status: Genid Yanam Royals won by 55 runs
+----------------------------------------
+📌 Match: Bahrain [BHR] vs Rwanda [RWN]
+⚡ Score: None
+📝 Status: Bahrain won by 8 wkts
+----------------------------------------
+📌 Match: New Zealand [NZ] vs Zimbabwe [ZIM]
+⚡ Score: None
+📝 Status: New Zealand won by 8 wkts
+----------------------------------------
+📌 Match: Kenya [KEN] vs United Arab Emirates [UAE]
+⚡ Score: None
+📝 Status: United Arab Emirates won by 40 runs
+----------------------------------------
+📌 Match: Finland Women [FINW] vs Switzerland Women
+⚡ Score: None
+📝 Status: Switzerland Women won by 7 wkts
+----------------------------------------
+📌 Match: Nigeria [NGA] vs Uganda [UGA]
+⚡ Score: None
+📝 Status: Uganda won by 77 runs (DLS method)
+----------------------------------------
+📌 Match: Samoa [SAMOA] vs Singapore [SGP]
+⚡ Score: None
+📝 Status: Singapore won by 52 runs
+----------------------------------------
+📌 Match: Hong Kong [HKG] vs Malaysia [MAL]
+⚡ Score: None
+📝 Status: Malaysia won by 5 wkts
+----------------------------------------
+📌 Match: Essex [ESX] vs Hampshire [HAM]
+⚡ Score: None
+📝 Status: Essex won by 4 wkts
+----------------------------------------
+📌 Match: Lancashire [LNCS] vs Yorkshire [YRK]
+⚡ Score: None
+📝 Status: Lancashire won by 21 runs
+----------------------------------------
+📌 Match: Nottinghamshire [NOT] vs Worcestershire [WRCS]
+⚡ Score: None
+📝 Status: Worcestershire won by 45 runs
+----------------------------------------
+📌 Match: Gloucestershire [GLOU] vs Sussex [SUSS]
+⚡ Score: None
+📝 Status: Sussex won by 4 wkts
+----------------------------------------
+📌 Match: Central Districts [CD] vs Rangpur Riders [RGR]
+⚡ Score: None
+📝 Status: No result
+----------------------------------------
+📌 Match: Mahe Megalo Strikers vs Ruby White Town Legends
+⚡ Score: None
+📝 Status: Ruby White Town Legends won by 11 runs
+----------------------------------------
+📌 Match: Kenya [KEN] vs Nigeria [NGA]
+⚡ Score: None
+📝 Status: Kenya won by 20 runs - 16 overs game due to rain
+----------------------------------------
+📌 Match: Genid Yanam Royals vs Villianur Mohit Kings
+⚡ Score: None
+📝 Status: Genid Yanam Royals won by 1 run
+----------------------------------------
+📌 Match: Guyana Amazon Warriors [GAW] vs Hobart Hurricanes [HBH]
+⚡ Score: None
+📝 Status: Guyana Amazon Warriors won by 4 wkts
+----------------------------------------
+📌 Match: Middlesex [MDX] vs Surrey [SUR]
+⚡ Score: None
+📝 Status: Surrey won by 8 runs
+----------------------------------------
+📌 Match: Dubai Capitals [DC] vs Rangpur Riders [RGR]
+⚡ Score: None
+📝 Status: Rangpur Riders won by 8 runs
+----------------------------------------
+📌 Match: Bangladesh [BAN] vs Sri Lanka [SL]
+⚡ Score: None
+📝 Status: Bangladesh won by 8 wkts
+----------------------------------------
+📌 Match: Ossudu Accord Warriors vs Ruby White Town Legends
+⚡ Score: None
+📝 Status: Ossudu Accord Warriors won by 2 wkts
+----------------------------------------
+📌 Match: England Women [ENGW] vs India Women [INDW]
+⚡ Score: None
+📝 Status: India Women won by 4 wkts
+----------------------------------------
+📌 Match: New Zealand [NZ] vs South Africa [RSA]
+⚡ Score: None
+📝 Status: New Zealand won by 21 runs
+----------------------------------------
+📌 Match: Mahe Megalo Strikers vs Villianur Mohit Kings
+⚡ Score: None
+📝 Status: Mahe Megalo Strikers won by 3 wkts
+----------------------------------------
+📌 Match: Central Districts [CD] vs Hobart Hurricanes [HBH]
+⚡ Score: None
+📝 Status: Central Districts won by 16 runs
+----------------------------------------
+📌 Match: Durham [DURH] vs Leicestershire [LECS]
+⚡ Score: None
+📝 Status: There is no scorecard available for this match.
+----------------------------------------
+📌 Match: Genid Yanam Royals vs Ossudu Accord Warriors
+⚡ Score: None
+📝 Status: Genid Yanam Royals won by 6 runs
+----------------------------------------

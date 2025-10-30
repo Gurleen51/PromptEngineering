@@ -1,0 +1,80 @@
+🏏 LIVE MATCHES
+
+📌 Match: Zimbabwe vs Afghanistan, 1st T20I
+🔄 Status: Afghanistan won by 53 runs
+🆚 Teams: ['Zimbabwe', 'Afghanistan']
+📍 Venue: Harare Sports Club, Harare
+📊 Score: [{'r': 180, 'w': 6, 'o': 20, 'inning': 'afghanistan Inning 1'}, {'r': 127, 'w': 10, 'o': 16.1, 'inning': 'Zimbabwe,Afghanistan Inning 1'}]
+----------------------------------------
+📌 Match: Bangladesh vs West Indies, 2nd T20I
+🔄 Status: West Indies won by 14 runs
+🆚 Teams: ['Bangladesh', 'West Indies']
+📍 Venue: Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram
+📊 Score: [{'r': 149, 'w': 9, 'o': 20, 'inning': 'west indies Inning 1'}, {'r': 135, 'w': 8, 'o': 20, 'inning': 'Bangladesh,West Indies Inning 1'}]
+----------------------------------------
+📌 Match: Western Australia vs South Australia, 9th Match
+🔄 Status: Day 3: Tea Break - South Australia lead by 89 runs
+🆚 Teams: ['Western Australia', 'South Australia']
+📍 Venue: W.A.C.A. Ground, Perth
+📊 Score: [{'r': 215, 'w': 10, 'o': 59, 'inning': 'South Australia Inning 1'}, {'r': 307, 'w': 10, 'o': 110.2, 'inning': 'Western Australia Inning 1'}, {'r': 181, 'w': 1, 'o': 66, 'inning': 'South Australia Inning 2'}]
+----------------------------------------
+📌 Match: Queensland vs New South Wales, 8th Match
+🔄 Status: Day 3: 3rd Session - Queensland trail by 201 runs
+🆚 Teams: ['Queensland', 'New South Wales']
+📍 Venue: The Gabba, Brisbane
+📊 Score: [{'r': 429, 'w': 7, 'o': 116.5, 'inning': 'New South Wales Inning 1'}, {'r': 228, 'w': 4, 'o': 67, 'inning': 'Queensland Inning 1'}]
+----------------------------------------
+📌 Match: Victoria vs Tasmania, 7th Match
+🔄 Status: Day 3: Stumps - Tasmania need 327 runs
+🆚 Teams: ['Victoria', 'Tasmania']
+📍 Venue: Junction Oval, Melbourne
+📊 Score: [{'r': 256, 'w': 10, 'o': 90.5, 'inning': 'Victoria Inning 1'}, {'r': 232, 'w': 10, 'o': 80.4, 'inning': 'Tasmania Inning 1'}, {'r': 330, 'w': 5, 'o': 97, 'inning': 'Victoria Inning 2'}, {'r': 28, 'w': 1, 'o': 8, 'inning': 'Tasmania Inning 2'}]
+----------------------------------------
+📌 Match: Hobart Hurricanes Women vs Brisbane Heat Women, Final
+🔄 Status: Hobart Hurricanes Women won by 88 runs
+🆚 Teams: ['Hobart Hurricanes Women', 'Brisbane Heat Women']
+📍 Venue: Cricket Central, Sydney
+📊 Score: [{'r': 193, 'w': 4, 'o': 20, 'inning': 'Hobart Hurricanes Women Inning 1'}, {'r': 105, 'w': 10, 'o': 19, 'inning': 'Brisbane Heat Women Inning 1'}]
+----------------------------------------
+📌 Match: India A vs South Africa A, 1st Unofficial Test
+🔄 Status: Day 1: 2nd Session - India A opt to bowl
+🆚 Teams: ['India A', 'South Africa A']
+📍 Venue: BCCI Centre of Excellence Ground 1, Bengaluru
+📊 Score: [{'r': 153, 'w': 2, 'o': 39, 'inning': 'South Africa A Inning 1'}]
+----------------------------------------
+📌 Match: New Zealand vs England, 2nd ODI
+🔄 Status: New Zealand won by 5 wkts
+🆚 Teams: ['New Zealand', 'England']
+📍 Venue: Seddon Park, Hamilton
+📊 Score: [{'r': 175, 'w': 10, 'o': 36, 'inning': 'England Inning 1'}, {'r': 177, 'w': 5, 'o': 33.1, 'inning': 'New Zealand Inning 1'}]
+----------------------------------------
+📌 Match: England Women vs South Africa Women, 1st Semi-Final
+🔄 Status: South Africa Women won by 125 runs
+🆚 Teams: ['England Women', 'South Africa Women']
+📍 Venue: Barsapara Cricket Stadium, Guwahati
+📊 Score: [{'r': 319, 'w': 7, 'o': 50, 'inning': 'South Africa Women Inning 1'}, {'r': 194, 'w': 10, 'o': 42.3, 'inning': 'England Women Inning 1'}]
+----------------------------------------
+📌 Match: Australia vs India, 1st T20I
+🔄 Status: No result (due to rain)
+🆚 Teams: ['Australia', 'India']
+📍 Venue: Manuka Oval, Canberra
+📊 Score: [{'r': 97, 'w': 1, 'o': 9.4, 'inning': 'India Inning 1'}]
+----------------------------------------
+📌 Match: Auckland vs Otago, 6th Match
+🔄 Status: Auckland won by 95 runs
+🆚 Teams: ['Auckland', 'Otago']
+📍 Venue: Eden Park Outer Oval, Auckland
+📊 Score: [{'r': 232, 'w': 10, 'o': 47.5, 'inning': 'Auckland Inning 1'}, {'r': 137, 'w': 10, 'o': 31, 'inning': 'Otago Inning 1'}]
+----------------------------------------
+📌 Match: Central Districts vs Northern Knights, 5th Match
+🔄 Status: Northern Knights won by 113 runs (DLS Method)
+🆚 Teams: ['Central Districts', 'Northern Knights']
+📍 Venue: Pukekura Park, New Plymouth
+📊 Score: [{'r': 271, 'w': 8, 'o': 49, 'inning': 'Northern Knights Inning 1'}, {'r': 156, 'w': 10, 'o': 42.4, 'inning': 'Central Districts Inning 1'}]
+----------------------------------------
+📌 Match: Wellington vs Canterbury, 4th Match
+🔄 Status: Wellington won by 2 wkts
+🆚 Teams: ['Wellington', 'Canterbury']
+📍 Venue: Basin Reserve, Wellington
+📊 Score: [{'r': 258, 'w': 10, 'o': 49.5, 'inning': 'Canterbury Inning 1'}, {'r': 259, 'w': 8, 'o': 49, 'inning': 'Wellington Inning 1'}]
+----------------------------------------

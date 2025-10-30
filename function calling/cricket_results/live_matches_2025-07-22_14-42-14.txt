@@ -1,0 +1,86 @@
+🏏 LIVE MATCHES
+
+📌 Match: Ossudu Accord Warriors vs Mahe Megalo Strikers, 29th Match
+🔄 Status: Ossudu Accord Warriors opt to bowl
+🆚 Teams: ['Ossudu Accord Warriors', 'Mahe Megalo Strikers']
+📍 Venue: Cricket Association Puducherry Siechem Ground, Puducherry
+📊 Score: [{'r': 66, 'w': 1, 'o': 7.5, 'inning': 'Mahe Megalo Strikers Inning 1'}]
+----------------------------------------
+📌 Match: Genid Yanam Royals vs Ruby White Town Legends, 28th Match
+🔄 Status: No result - due to rain
+🆚 Teams: ['Genid Yanam Royals', 'Ruby White Town Legends']
+📍 Venue: Cricket Association Puducherry Siechem Ground, Puducherry
+📊 Score: [{'r': 105, 'w': 2, 'o': 13.4, 'inning': 'Genid Yanam Royals Inning 1'}]
+----------------------------------------
+📌 Match: Karaikal Kniights vs Ossudu Accord Warriors, 27th Match
+🔄 Status: Ossudu Accord Warriors won by 5 wkts
+🆚 Teams: ['Karaikal Kniights', 'Ossudu Accord Warriors']
+📍 Venue: Cricket Association Puducherry Siechem Ground, Puducherry
+📊 Score: [{'r': 135, 'w': 9, 'o': 20, 'inning': 'Karaikal Kniights Inning 1'}, {'r': 137, 'w': 5, 'o': 18.1, 'inning': 'Ossudu Accord Warriors Inning 1'}]
+----------------------------------------
+📌 Match: Cameroon Women vs Lesotho Women, 8th Match, Group A
+🔄 Status: Cameroon Women won by 55 runs
+🆚 Teams: ['Cameroon Women', 'Lesotho Women']
+📍 Venue: Botswana Cricket Association Oval 2, Gaborone
+📊 Score: [{'r': 105, 'w': 9, 'o': 20, 'inning': 'Cameroon Women Inning 1'}, {'r': 50, 'w': 10, 'o': 17, 'inning': 'Lesotho Women Inning 1'}]
+----------------------------------------
+📌 Match: Sierra Leone Women vs Eswatini Women, 7th Match, Group B
+🔄 Status: Sierra Leone Women won by 149 runs
+🆚 Teams: ['Sierra Leone Women', 'Eswatini Women']
+📍 Venue: Botswana Cricket Association Oval 1, Gaborone
+📊 Score: [{'r': 190, 'w': 6, 'o': 20, 'inning': 'Sierra Leone Women Inning 1'}, {'r': 41, 'w': 8, 'o': 20, 'inning': 'Eswatini Women Inning 1'}]
+----------------------------------------
+📌 Match: Botswana Women vs Mozambique Women, 5th Match, Group B
+🔄 Status: Botswana Women won by 8 wkts
+🆚 Teams: ['Botswana Women', 'Mozambique Women']
+📍 Venue: Botswana Cricket Association Oval 1, Gaborone
+📊 Score: [{'r': 53, 'w': 9, 'o': 20, 'inning': 'Mozambique Women Inning 1'}, {'r': 54, 'w': 2, 'o': 7.3, 'inning': 'Botswana Women Inning 1'}]
+----------------------------------------
+📌 Match: Rwanda Women vs Malawi Women, 6th Match, Group A
+🔄 Status: Rwanda Women won by 67 runs
+🆚 Teams: ['Rwanda Women', 'Malawi Women']
+📍 Venue: Botswana Cricket Association Oval 2, Gaborone
+📊 Score: [{'r': 138, 'w': 6, 'o': 20, 'inning': 'Rwanda Women Inning 1'}, {'r': 71, 'w': 9, 'o': 20, 'inning': 'Malawi Women Inning 1'}]
+----------------------------------------
+📌 Match: Qatar vs Saudi Arabia, 3rd Match
+🔄 Status: Qatar won by 4 wkts
+🆚 Teams: ['Qatar', 'Saudi Arabia']
+📍 Venue: West End Park International Cricket Stadium, Doha
+📊 Score: [{'r': 169, 'w': 7, 'o': 20, 'inning': 'Saudi Arabia Inning 1'}, {'r': 173, 'w': 6, 'o': 19.2, 'inning': 'Qatar Inning 1'}]
+----------------------------------------
+📌 Match: Hong Kong vs Malaysia, 7th Match
+🔄 Status: Malaysia won by 7 wkts
+🆚 Teams: ['Hong Kong', 'Malaysia']
+📍 Venue: Singapore National Cricket Ground, Singapore
+📊 Score: [{'r': 140, 'w': 10, 'o': 19.3, 'inning': 'Hong Kong Inning 1'}, {'r': 144, 'w': 3, 'o': 14.3, 'inning': 'Malaysia Inning 1'}]
+----------------------------------------
+📌 Match: Uganda vs Kenya, 6th Match
+🔄 Status: Uganda won by 28 runs
+🆚 Teams: ['Uganda', 'Kenya']
+📍 Venue: Entebbe Cricket Oval, Entebbe
+📊 Score: [{'r': 157, 'w': 5, 'o': 20, 'inning': 'Uganda Inning 1'}, {'r': 129, 'w': 7, 'o': 20, 'inning': 'Kenya Inning 1'}]
+----------------------------------------
+📌 Match: Nigeria vs United Arab Emirates, 5th Match
+🔄 Status: United Arab Emirates won by 7 wkts
+🆚 Teams: ['Nigeria', 'United Arab Emirates']
+📍 Venue: Entebbe Cricket Oval, Entebbe
+📊 Score: [{'r': 58, 'w': 10, 'o': 13.3, 'inning': 'Nigeria Inning 1'}, {'r': 59, 'w': 3, 'o': 4.5, 'inning': 'United Arab Emirates Inning 1'}]
+----------------------------------------
+📌 Match: Australia A vs Sri Lanka A, 2nd Unofficial Test
+🔄 Status: Day 3: Stumps - Australia A trail by 106 runs
+🆚 Teams: ['Australia A', 'Sri Lanka A']
+📍 Venue: Marrara Cricket Ground, Darwin
+📊 Score: [{'r': 485, 'w': 6, 'o': 157, 'inning': 'Sri Lanka A Inning 1'}, {'r': 379, 'w': 3, 'o': 103, 'inning': 'Australia A Inning 1'}]
+----------------------------------------
+📌 Match: England U19 vs India U19, 2nd Youth Test
+🔄 Status: Day 2: Stumps - India U19 trail by 258 runs
+🆚 Teams: ['England U19', 'India U19']
+📍 Venue: County Ground, Chelmsford
+📊 Score: [{'r': 309, 'w': 10, 'o': 81.3, 'inning': 'England U19 Inning 1'}, {'r': 51, 'w': 1, 'o': 9, 'inning': 'India U19 Inning 1'}]
+----------------------------------------
+📌 Match: West Indies vs Australia, 1st T20I
+🔄 Status: Australia won by 3 wkts
+🆚 Teams: ['West Indies', 'Australia']
+📍 Venue: Sabina Park, Kingston, Jamaica
+📊 Score: [{'r': 189, 'w': 8, 'o': 20, 'inning': 'West Indies Inning 1'}, {'r': 190, 'w': 7, 'o': 18.5, 'inning': 'Australia Inning 1'}]
+----------------------------------------
