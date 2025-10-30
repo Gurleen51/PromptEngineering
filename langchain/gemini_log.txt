@@ -1,0 +1,18 @@
+User: who is the president of india?
+Gemini Agent: Droupadi Murmu
+============================================================
+User: who is the prime minister of canada?
+Gemini Agent: Justin Trudeau
+============================================================
+User: what is the capital of india and what is 12*2?
+Gemini Agent: Agent stopped due to iteration limit or time limit.
+============================================================
+User: what is the capital of india and what is 12*2?
+Gemini Agent: Agent stopped due to iteration limit or time limit.
+============================================================
+User: what is the capital of india and what is 12*2?
+Gemini Agent: The capital of India is New Delhi, and 12*2 is 24.
+============================================================
+User: What is the capital of France?
+Gemini Agent: Final Answer: The capital of France is Paris.
+============================================================
