@@ -1,0 +1,16 @@
+Files: Day2.pdf, Day3.pdf
+Question: compare both pdfs
+Answer: Both PDFs are related to CSS training, specifically "Training TR-102 Report Day 2" from June 12th, 2024.
+
+The first PDF provides a detailed explanation of CSS, including:
+
+*   **Introduction to CSS:** Definition and purpose of CSS.
+*   **Ways to apply CSS:** Inline, Internal, and External CSS, with their advantages and disadvantages.
+*   **CSS Concepts:** Hover effects, Box Model, Fluid Model (responsive design).
+*   **CSS Syntax:** Class and ID selectors, their purpose, reusability, HTML attributes, specificity, and common usage. It also explains why IDs must be unique while classes can be used multiple times.
+*   **Training Context:** Mentions the use of external CSS in the training and the implementation of a container element for centering content.
+
+The second PDF focuses on the training context and provides details on:
+
+*   **Introduction to CSS:** Definition and purpose of CSS.
+*   **Ways to apply CSS:** Inline, Internal, and External CSS, with their advantages and disadvantages.
