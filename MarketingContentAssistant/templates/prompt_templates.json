@@ -1,0 +1,9 @@
+{
+  "adcopy": "Write {n_variants} creative ad copy variants for a product named '{product_name}'. Highlight: {product_value}. Target audience: {audience}. Use a {tone} tone. Each variant should include a headline, body, and call-to-action. Keep it catchy and short.",
+  
+  "slogan": "Generate {n_variants} catchy slogans for the product '{product_name}' which is about {product_value}. Audience: {audience}. Tone: {tone}.",
+  
+  "socialmediapost": "Create {n_variants} engaging social media posts about the product '{product_name}'. Describe {product_value} for {audience} in a {tone} voice. Include emojis and 3 hashtags at the end.",
+
+  "emailpitch": "Generate {n_variants} short email pitches for '{product_name}'. The key offering is {product_value}. Target: {audience}. Tone: {tone}. Include a compelling subject line and clear call to action."
+}

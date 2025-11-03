@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ProductPrompt | AI Marketing Content Generator</title>
+  <link rel="stylesheet" href="style.css" /> 
+</head>
+<body>
+  <div class="hero-wrapper">
+    <header class="hero">
+      <div class="hero-content">
+        <h1>ProductPrompt</h1>
+        <p class="subtitle">Generate Creative Marketing Content Instantly</p>
+      </div>
+      </header>
+  </div>
+
+  <main class="container">
+    <section class="card input-section">
+      <h2>🧠 Enter Product Details</h2>
+      <form id="contentForm">
+        
+        <div class="form-group">
+          <label>Product Name</label>
+          <div class="input-with-mic">
+            <input type="text" id="product_name" placeholder="Enter product name" required />
+            <button type="button" class="mic-btn" data-target="product_name">🎙️</button>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label>Description</label>
+          <div class="input-with-mic">
+            <textarea id="description" rows="3" placeholder="Short product description" required></textarea>
+            <button type="button" class="mic-btn" data-target="description">🎙️</button>
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label>Audience</label>
+            <input type="text" id="audience" placeholder="Target audience (optional)" />
+          </div>
+          <div class="form-group">
+            <label>Tone</label>
+            <select id="tone">
+              <option value="friendly">Friendly</option>
+              <option value="professional">Professional</option>
+              <option value="funny">Funny</option>
+              <option value="luxury">Luxury</option>
+              <option value="casual">Casual</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Template</label>
+            <select id="template">
+              <option value="ad_copy">Ad Copy</option>
+              <option value="social_media_post">Social Media Post</option>
+              <option value="slogan">Slogan</option>
+              <option value="email_pitch">Email Pitch</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label>Number of Variants</label>
+          <input type="number" id="n_variants" min="1" max="5" value="2" />
+        </div>
+
+        <button type="submit" id="generateBtn" class="btn-primary">🚀 Generate</button>
+      </form>
+    </section>
+
+    <section class="card output-section">
+      <h2>🌟 Generated Marketing Content <button id="readOutputBtn" type="button" style="display:none;" title="Read Generated Content Aloud">🔊 Read Aloud</button></h2>
+      <div id="output">
+        <p class="placeholder">Results will appear here...</p>
+      </div>
+    </section>
+  </main>
+
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <h3>🕒 Previous Generations</h3>
+      <button id="closeSidebar">✖</button>
+    </div>
+    <div id="history" class="history-container">
+      <p class="placeholder">Loading...</p>
+    </div>
+  </aside>
+
+  <button id="historyBtn" class="floating-btn">📜 History</button>
+
+  <footer class="footer">
+    <p>© 2025 ProductPrompt | AI Marketing Content Assistant</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
