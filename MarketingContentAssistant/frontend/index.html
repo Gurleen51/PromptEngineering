@@ -7,18 +7,26 @@
   <link rel="stylesheet" href="style.css" /> 
 </head>
 <body>
+  
+  <nav class="navbar">
+    <a href="#" class="logo">Product Prompt</a>
+    <button class="tab-btn active" data-target="input-section">Generate</button>
+    <button class="tab-btn active" data-target="output-section">Results</button>
+    <button class="tab-btn active" data-target="about">About</button>
+  </nav>
+
   <div class="hero-wrapper">
     <header class="hero">
       <div class="hero-content">
-        <h1>ProductPrompt</h1>
+        <h1>Marketing Content Assistant</h1>
         <p class="subtitle">Generate Creative Marketing Content Instantly</p>
       </div>
-      </header>
+    </header>
   </div>
 
   <main class="container">
-    <section class="card input-section">
-      <h2>🧠 Enter Product Details</h2>
+    <section class="card input-section" id="input-section">
+      <h2>Enter Product Details</h2>
       <form id="contentForm">
         
         <div class="form-group">
@@ -36,7 +44,7 @@
             <button type="button" class="mic-btn" data-target="description">🎙️</button>
           </div>
         </div>
-
+        
         <div class="form-row">
           <div class="form-group">
             <label>Audience</label>
@@ -72,12 +80,20 @@
       </form>
     </section>
 
-    <section class="card output-section">
-      <h2>🌟 Generated Marketing Content <button id="readOutputBtn" type="button" style="display:none;" title="Read Generated Content Aloud">🔊 Read Aloud</button></h2>
+    <section class="card output-section" id="output-section">
+      <h2> Generated Marketing Content <button id="readOutputBtn" type="button" style="display:none;" title="Read Generated Content Aloud">🔊 Read Aloud</button></h2>
       <div id="output">
         <p class="placeholder">Results will appear here...</p>
       </div>
     </section>
+    
+    <section class="card" id="about">
+      <h2>About Product Prompt</h2>
+      <p> 
+        Product Prompt is a quick, smart assistant built to make marketing easy for you. It uses Generative AI to instantly create great stuff like ad copy, catchy slogans and social media posts.
+      </p>
+    </section>
+    
   </main>
 
   <aside class="sidebar" id="sidebar">
@@ -93,7 +109,10 @@
   <button id="historyBtn" class="floating-btn">📜 History</button>
 
   <footer class="footer">
-    <p>© 2025 ProductPrompt | AI Marketing Content Assistant</p>
+    <div class="container footer-content">
+      <p>© 2025 ProductPrompt | AI Marketing Content Assistant</p>
+      <p>Developed by: Gurleen Kaur | URN: 2203436</p>
+    </div>
   </footer>
 
   <script src="script.js"></script>
